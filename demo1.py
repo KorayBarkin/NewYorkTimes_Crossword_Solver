@@ -9,6 +9,7 @@ Ege Kemahlıoğlu (S1)
 Koray Barkın Cıngı (S2)
 Ömer Faruk Oflaz (S2)
 Ömer Faruk Ünal (S2)
+deneme2
 """
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
